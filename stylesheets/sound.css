@@ -1,0 +1,27 @@
+.audiojs {
+  background: #040309;
+  background-image: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  -o-box-shadow: none;
+  box-shadow: none;
+}
+.audiojs .scrubber {
+  background: #945b2d;
+}
+.audiojs .loaded {
+  background: #947f73;
+}
+.audiojs .progress {
+  background: #fceac7;
+}
+.audiojs .time {
+  border: none;
+  color: #fff9dd;
+}
+.audiojs .time strong {
+  color: #fff9dd;
+}
+.audiojs .play-pause {
+  border: none;
+}

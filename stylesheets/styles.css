@@ -100,7 +100,13 @@ header {
   float:left;
   position:fixed;
 }
+header h1 a {
+  color: #222;
+}
 
+header .view a.current {
+  color: #222;
+}
 header ul {
   list-style:none;
   height:40px;
@@ -163,6 +169,10 @@ section {
   width:500px;
   float:right;
   padding-bottom:50px;
+}
+section h2 + img {
+  float: right;
+  margin: 0 0 1ex 1em;
 }
 
 small {
