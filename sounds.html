@@ -7,6 +7,7 @@
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <link rel="stylesheet" href="stylesheets/sound.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -20,14 +21,16 @@
 
         <p class="view">
           <a href="vita.html">Vita</a><br>
-          <a href="sounds.html">Sounds</a>
+          <a class=current href="sounds.html">Sounds</a>
         </p>
 
         <p class="view"><a href="mailto:bombste@gmail.com">bombste@gmail.com</a></p>
 
       </header>
       <section>
-        <img src=images/nexus-gong-philipp-kullen-invert.jpg>
+        <h1><a href=audio/gong-klang-beispiel-philipp-kullen.mp3>Gong Klang</a></h1>
+        <audio preload="auto" src="audio/gong-klang-beispiel-philipp-kullen.mp3"></audio>
+        <img src=images/nexus-gong-philipp-kullen.jpg>
       </section>
       <footer>
         <p>
@@ -37,6 +40,8 @@
       </footer>
     </div>
     <script src="javascripts/scale.fix.js"></script>
+    <script src="player/audio.min.js"></script>
+    <script src="javascripts/sound.js"></script>
     
   </body>
 </html>
