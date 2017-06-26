@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Philipp Kullen</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href=index.html>Philipp Kullen</a></h1>
+        <p>Sound Art Music Percussions Drums Electronics Production Mastering</p>
+
+        <p class="view">
+          <a href="vita.html">Vita</a><br>
+          <a href="vita.html">Vita english</a><br>
+          <a href="Projekte als Musiker.html">Projekte als Musiker</a><br>
+          <a href="aktuelle projekte.html">Projekte als Producer/Sound Engineer  </a><br>
+          <a href="projekte.html">Sound Art Projekte</a><br>
+          <a href="sounds.html">Gong</a><br>
+          <a href="Diskografie.html">Diskografie</a><br>
+        </p>
+
+
+        <p class="view"><a href="mailto:ph.kullen@gmail.com">ph.kullen@gmail.com</a></p>
+
+      </header>
+      <section>
+        <h1>Vita english</h1>
+        <h2>Musician, Sound Artist, Composer, Sounddesigner</h2>
+        <p> <img src=images/portrait-philipp-kullen.jpg>  </p>
+       
+        
+        <p>Born in 1979, he studied percussion, percussion, jazz, pop, world music and ethno-musicology in New York, Cuba, Spain, Brazil and Berlin, graduating from the University of Music "Hanns Eisler".</p>
+        <p>He has been a professional musician all over Europe since 2005 as a professional musician on tour and in the studio with various formations such as #Mi Solar, #Jazzanova, #Apparatschik, #Ohrbooten, #GeorgLevin, #ChicoTrujillo, #MissPlatnum, #Us5, #TaikoSaitoEnsemble, #NiñodeElche. From jazz to flamenco to salsa and electronic music.</p>
+        <p>From 2009 to 2011, he studied "Sound Studies" with a degree "Master of Arts" at Sam Auinger at the University of the Arts in Berlin, exploring the possibilities of a creative approach to sound and space, and produced several experimental sound works.</p>
+        </p>He produced studio albums / radio plays and composed music for the bands #MiSolar, #Dotaunddiestadtpiraten, #FanfaraKalashnikov, #MartalaPunxa and for the web presence of the companies #Gaggenau, #Telekom and #Porsche. He also works as a theater musician in the #BerlinerEnsemble and with the Company #NicoandtheNavigators.</p>
+        <p>Since 2009 he has realized several sound installations and sound performances in Berlin, among others at the #Transmediale 2010 and the #klangstätten Festival 2012 in Braunschweig.</p>
+        <p>His sound works deal with the possibilities of eliciting new sounds by means of certain electronic instruments, such as gongs or drums, and making them directly perceptible through the instrument in the room.</p>
+        <p>Vibration as a way to explore space and time is the central concern of his artistic work. The extension of the sound spectrum of an instrument and the elaboration of the acoustic characteristics of a room are his artistic means.</p>
+      </section>
+      <footer>
+        <p>
+          <small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br>
+          With a little help from <a href="http://die-tf.de">TF</a></small>
+        </p>
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
